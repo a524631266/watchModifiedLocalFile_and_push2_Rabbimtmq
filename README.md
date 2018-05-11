@@ -1,0 +1,2 @@
+# watchModifiedLocalFile_and_push2_Rabbimtmq
+用来监控本地文件是否有更新，一旦更新数据就会把更新的数据按照业务逻辑输出数据到rabbitmq队列
